@@ -1,5 +1,6 @@
 1) what are the predifined functions in collection in java?
-Ans:- 	predefined methods in Java are the ones that the Java class libraries already define. 
+Ans:- 
+predefined methods in Java are the ones that the Java class libraries already define. 
 This means that they can be called and used anywhere in our program without defining them. 
 There are numerous predefined methods, such as length(), sqrt(), max(), and print(), and each of them is defined inside their respective classes.
 		
